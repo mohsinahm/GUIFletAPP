@@ -68,4 +68,4 @@ jobs:
         with:
           app-name: 'GUIFletAPP'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_00801190B5EC4F999E620BB0E12C3678 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB7449F393A44460AD76C32C24A0AA90 }}
